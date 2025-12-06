@@ -122,11 +122,19 @@ npm run dev
 
 ## 📸 Screenshots
 
-The application features:
+### Home Page - Initial State
+![ChainSpeed Home Page](./screenshots/home-initial.png)
+*The home screen featuring the ChainSpeed logo, BENCHMARK and DIAGNOSTIC mode selectors*
+
+### Application Features:
+The ChainSpeed application includes:
 - Animated gradient background with particle effects
 - 3D HoloCards displaying test results
-- Real-time progress visualization
+- Real-time progress visualization with WebSocket streaming
 - Winner celebration with confetti animation
+- Interactive blockchain performance comparison
+
+**Note:** Visit [https://chainspeed-web.vercel.app](https://chainspeed-web.vercel.app) to see the live application in action with full 3D visualizations and real-time testing capabilities.
 
 ## 📊 Metrics Explained
 
