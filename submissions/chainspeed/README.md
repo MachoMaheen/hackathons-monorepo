@@ -137,12 +137,7 @@ The ChainSpeed application includes:
 - ⚡ **Interactive blockchain performance comparison** between Polkadot and Stellar
 - 🎯 **Dual test modes**: Network Benchmark and Node Diagnostic
 
-### Live Demo
-
-Visit the live application to experience the full 3D visualizations and real-time testing capabilities:
-- **Live Demo:** [https://chainspeed-web.vercel.app](https://chainspeed-web.vercel.app)
-
-*For additional screenshots showing test results, 3D visualizations, and winner celebrations, please visit the live demo.*
+*For additional screenshots showing test results, 3D visualizations, and winner celebrations, please visit the [live demo](https://chainspeed-web.vercel.app).*
 
 ## 📊 Metrics Explained
 
