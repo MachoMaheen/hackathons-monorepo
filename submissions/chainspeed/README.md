@@ -122,11 +122,22 @@ npm run dev
 
 ## 📸 Screenshots
 
-The application features:
-- Animated gradient background with particle effects
-- 3D HoloCards displaying test results
-- Real-time progress visualization
-- Winner celebration with confetti animation
+### Home Page - Initial State
+![ChainSpeed Home Page](./screenshots/home-initial.png)
+
+*The ChainSpeed application home screen*
+
+### Application Features
+
+The ChainSpeed application includes:
+- 🎨 **Animated gradient background** with particle effects
+- 🎴 **3D HoloCards** displaying test results with React Three Fiber
+- 📊 **Real-time progress visualization** with WebSocket streaming
+- 🎉 **Winner celebration** with confetti animation
+- ⚡ **Interactive blockchain performance comparison** between Polkadot and Stellar
+- 🎯 **Dual test modes**: Network Benchmark and Node Diagnostic
+
+*For additional screenshots showing test results, 3D visualizations, and winner celebrations, please visit the [live demo](https://chainspeed-web.vercel.app).*
 
 ## 📊 Metrics Explained
 
